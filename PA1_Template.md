@@ -1,8 +1,3 @@
----
-title: "PA1_Template"
-output: html_document
----
-
 ## Peer Assessment 1
 
 
